@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <groupId>com.ryansiu1995.sonar</groupId>
+    <artifactId>sonar-elixir-plugin</artifactId>
+    <packaging>sonar-plugin</packaging>
+    <version>0.0.1-SNAPSHOT</version>
+    <modelVersion>4.0.0</modelVersion>
+
+    <developers>
+        <developer>
+            <id>ryansiu1995</id>
+            <name>Ryan SIU LW</name>
+            <url>https://github.com/RyanSiu1995</url>
+        </developer>
+    </developers>
+    
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+        </license>
+    </licenses>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.codehaus.sonar</groupId>
+            <artifactId>sonar-plugin-api</artifactId>
+            <version>5.6</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.sonarsource.sonar-packaging-maven-plugin</groupId>
+                <artifactId>sonar-packaging-maven-plugin</artifactId>    
+                <version>1.17</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <pluginClass>com.ryansiu1995.sonar.ElixirPlugin</pluginClass>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
