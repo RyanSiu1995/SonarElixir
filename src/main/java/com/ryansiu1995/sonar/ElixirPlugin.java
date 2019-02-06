@@ -7,6 +7,7 @@ public class ElixirPlugin implements Plugin {
 
     @Override
     public void define(Context ctx) {
-        ctx.addExtension(ElixirLanguage.class);
+        ctx.addExtension(ElixirLanguage.class)
+            .addExtension(new ElixirRulesDefinition(ctx.getRuntime()));
     }
 }
