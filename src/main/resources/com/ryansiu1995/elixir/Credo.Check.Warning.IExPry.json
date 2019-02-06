@@ -1,1 +1,1 @@
-{"status": "ready", "defaultSeverity": "Minor", "tags": "Warning", "sqKey": "Credo.Check.Warning.IExPry", "scope": "All", "title": "IExPry", "type": "CODE_SMELL"}
+{"status": "ready", "defaultSeverity": "Minor", "tags": ["warning"], "sqKey": "Credo.Check.Warning.IExPry", "scope": "All", "title": "IExPry", "type": "CODE_SMELL"}

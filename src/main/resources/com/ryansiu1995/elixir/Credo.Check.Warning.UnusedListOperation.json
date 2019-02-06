@@ -1,1 +1,1 @@
-{"status": "ready", "defaultSeverity": "Minor", "tags": "Warning", "sqKey": "Credo.Check.Warning.UnusedListOperation", "scope": "All", "title": "UnusedListOperation", "type": "CODE_SMELL"}
+{"status": "ready", "defaultSeverity": "Minor", "tags": ["warning"], "sqKey": "Credo.Check.Warning.UnusedListOperation", "scope": "All", "title": "UnusedListOperation", "type": "CODE_SMELL"}

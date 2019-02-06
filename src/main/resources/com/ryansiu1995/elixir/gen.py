@@ -16,7 +16,7 @@ if __name__ == '__main__':
     for item in data['ruleKeys']:
         body = template.copy()
         sub = item.split(".")
-        body['tags'] = sub[2]
+        body['tags'] = [sub[2].lower()]
         body['sqKey'] = item
         body['title'] = sub[3]
         with open('%s.json' % item, 'w+') as out:

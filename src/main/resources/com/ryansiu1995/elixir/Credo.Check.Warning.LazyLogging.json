@@ -1,1 +1,1 @@
-{"status": "ready", "defaultSeverity": "Minor", "tags": "Warning", "sqKey": "Credo.Check.Warning.LazyLogging", "scope": "All", "title": "LazyLogging", "type": "CODE_SMELL"}
+{"status": "ready", "defaultSeverity": "Minor", "tags": ["warning"], "sqKey": "Credo.Check.Warning.LazyLogging", "scope": "All", "title": "LazyLogging", "type": "CODE_SMELL"}

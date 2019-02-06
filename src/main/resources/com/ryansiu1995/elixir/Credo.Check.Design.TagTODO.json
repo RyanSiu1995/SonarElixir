@@ -1,1 +1,1 @@
-{"status": "ready", "defaultSeverity": "Minor", "tags": "Design", "sqKey": "Credo.Check.Design.TagTODO", "scope": "All", "title": "TagTODO", "type": "CODE_SMELL"}
+{"status": "ready", "defaultSeverity": "Minor", "tags": ["design"], "sqKey": "Credo.Check.Design.TagTODO", "scope": "All", "title": "TagTODO", "type": "CODE_SMELL"}

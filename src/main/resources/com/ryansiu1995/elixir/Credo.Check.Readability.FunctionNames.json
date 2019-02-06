@@ -1,1 +1,1 @@
-{"status": "ready", "defaultSeverity": "Minor", "tags": "Readability", "sqKey": "Credo.Check.Readability.FunctionNames", "scope": "All", "title": "FunctionNames", "type": "CODE_SMELL"}
+{"status": "ready", "defaultSeverity": "Minor", "tags": ["readability"], "sqKey": "Credo.Check.Readability.FunctionNames", "scope": "All", "title": "FunctionNames", "type": "CODE_SMELL"}

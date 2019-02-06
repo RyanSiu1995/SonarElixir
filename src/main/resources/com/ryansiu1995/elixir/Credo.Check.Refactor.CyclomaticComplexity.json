@@ -1,1 +1,1 @@
-{"status": "ready", "defaultSeverity": "Minor", "tags": "Refactor", "sqKey": "Credo.Check.Refactor.CyclomaticComplexity", "scope": "All", "title": "CyclomaticComplexity", "type": "CODE_SMELL"}
+{"status": "ready", "defaultSeverity": "Minor", "tags": ["refactor"], "sqKey": "Credo.Check.Refactor.CyclomaticComplexity", "scope": "All", "title": "CyclomaticComplexity", "type": "CODE_SMELL"}

@@ -1,1 +1,1 @@
-{"status": "ready", "defaultSeverity": "Minor", "tags": "Consistency", "sqKey": "Credo.Check.Consistency.TabsOrSpaces", "scope": "All", "title": "TabsOrSpaces", "type": "CODE_SMELL"}
+{"status": "ready", "defaultSeverity": "Minor", "tags": ["consistency"], "sqKey": "Credo.Check.Consistency.TabsOrSpaces", "scope": "All", "title": "TabsOrSpaces", "type": "CODE_SMELL"}

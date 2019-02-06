@@ -1,1 +1,1 @@
-{"status": "ready", "defaultSeverity": "Minor", "tags": "Warning", "sqKey": "Credo.Check.Warning.BoolOperationOnSameValues", "scope": "All", "title": "BoolOperationOnSameValues", "type": "CODE_SMELL"}
+{"status": "ready", "defaultSeverity": "Minor", "tags": ["warning"], "sqKey": "Credo.Check.Warning.BoolOperationOnSameValues", "scope": "All", "title": "BoolOperationOnSameValues", "type": "CODE_SMELL"}
