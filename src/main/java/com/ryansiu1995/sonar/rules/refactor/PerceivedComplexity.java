@@ -1,4 +1,4 @@
-package com.ryansiu1995.sonar.refactor;
+package com.ryansiu1995.sonar.rules.refactor;
 
 import org.sonar.check.Rule;
 import com.ryansiu1995.sonar.rules.ElixirRule;
