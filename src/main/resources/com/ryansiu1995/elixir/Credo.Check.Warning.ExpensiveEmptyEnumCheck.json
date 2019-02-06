@@ -1,0 +1,1 @@
+{"status": "ready", "defaultSeverity": "Minor", "tags": "Warning", "sqKey": "Credo.Check.Warning.ExpensiveEmptyEnumCheck", "scope": "All", "title": "ExpensiveEmptyEnumCheck", "type": "CODE_SMELL"}

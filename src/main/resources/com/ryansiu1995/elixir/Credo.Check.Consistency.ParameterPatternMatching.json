@@ -1,0 +1,1 @@
+{"status": "ready", "defaultSeverity": "Minor", "tags": "Consistency", "sqKey": "Credo.Check.Consistency.ParameterPatternMatching", "scope": "All", "title": "ParameterPatternMatching", "type": "CODE_SMELL"}

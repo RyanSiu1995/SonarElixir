@@ -1,0 +1,1 @@
+{"status": "ready", "defaultSeverity": "Minor", "tags": "Refactor", "sqKey": "Credo.Check.Refactor.MatchInCondition", "scope": "All", "title": "MatchInCondition", "type": "CODE_SMELL"}

@@ -1,0 +1,1 @@
+{"status": "ready", "defaultSeverity": "Minor", "tags": "Refactor", "sqKey": "Credo.Check.Refactor.Nesting", "scope": "All", "title": "Nesting", "type": "CODE_SMELL"}

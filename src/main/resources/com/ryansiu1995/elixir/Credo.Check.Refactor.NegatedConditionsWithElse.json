@@ -1,0 +1,1 @@
+{"status": "ready", "defaultSeverity": "Minor", "tags": "Refactor", "sqKey": "Credo.Check.Refactor.NegatedConditionsWithElse", "scope": "All", "title": "NegatedConditionsWithElse", "type": "CODE_SMELL"}

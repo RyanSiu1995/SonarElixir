@@ -1,0 +1,1 @@
+{"status": "ready", "defaultSeverity": "Minor", "tags": "Consistency", "sqKey": "Credo.Check.Consistency.SpaceAroundOperators", "scope": "All", "title": "SpaceAroundOperators", "type": "CODE_SMELL"}

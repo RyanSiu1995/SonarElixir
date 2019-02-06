@@ -1,0 +1,1 @@
+{"status": "ready", "defaultSeverity": "Minor", "tags": "Consistency", "sqKey": "Credo.Check.Consistency.TabsOrSpaces", "scope": "All", "title": "TabsOrSpaces", "type": "CODE_SMELL"}

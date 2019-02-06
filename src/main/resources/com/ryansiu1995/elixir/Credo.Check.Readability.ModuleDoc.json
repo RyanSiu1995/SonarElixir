@@ -1,0 +1,1 @@
+{"status": "ready", "defaultSeverity": "Minor", "tags": "Readability", "sqKey": "Credo.Check.Readability.ModuleDoc", "scope": "All", "title": "ModuleDoc", "type": "CODE_SMELL"}

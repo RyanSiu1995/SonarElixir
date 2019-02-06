@@ -1,0 +1,1 @@
+{"status": "ready", "defaultSeverity": "Minor", "tags": "Design", "sqKey": "Credo.Check.Design.AliasUsage", "scope": "All", "title": "AliasUsage", "type": "CODE_SMELL"}

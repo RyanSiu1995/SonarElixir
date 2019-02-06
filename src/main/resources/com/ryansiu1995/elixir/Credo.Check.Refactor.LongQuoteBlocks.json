@@ -1,0 +1,1 @@
+{"status": "ready", "defaultSeverity": "Minor", "tags": "Refactor", "sqKey": "Credo.Check.Refactor.LongQuoteBlocks", "scope": "All", "title": "LongQuoteBlocks", "type": "CODE_SMELL"}

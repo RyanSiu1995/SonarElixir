@@ -1,0 +1,1 @@
+{"status": "ready", "defaultSeverity": "Minor", "tags": "Warning", "sqKey": "Credo.Check.Warning.UnusedStringOperation", "scope": "All", "title": "UnusedStringOperation", "type": "CODE_SMELL"}
