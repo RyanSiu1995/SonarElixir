@@ -35,7 +35,7 @@
         <repository>
             <id>central</id>
             <name>central maven</name>
-            <url>	http://central.maven.org/maven2</url>
+            <url>http://central.maven.org/maven2</url>
         </repository>
     </repositories>
 
@@ -43,7 +43,7 @@
         <dependency>
             <groupId>org.sonarsource.sonarqube</groupId>
             <artifactId>sonar-plugin-api</artifactId>
-            <version>7.6</version>
+            <version>6.7</version>
             <scope>provided</scope>
         </dependency>
         <dependency>

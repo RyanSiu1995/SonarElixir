@@ -1,8 +1,8 @@
-* Sonar Elixir RoadMap [1/8]
+* Sonar Elixir RoadMap [4/8]
 - [X] Copy the rule from elixir
-- [ ] Define rules profile
-- [ ] Register the rules
-- [ ] Rules Definition
+- [X] Define rules profile
+- [X] Register the rules
+- [X] Rules Definition
 - [ ] External Sensor with credo
 - [ ] External Sensor with excoveralls
 - [ ] Coverage Report
